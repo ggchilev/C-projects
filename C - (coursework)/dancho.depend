@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1452432960 source:/home/george_94/C projects/dancho/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

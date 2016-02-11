@@ -1,0 +1,2 @@
+There are 276 rows in the file 
+The longest row is row N22 and has 119 symbols

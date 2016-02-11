@@ -1,0 +1,5 @@
+There number of { is 34 
+There number of } is 34 
+There number of ( is 95 
+There number of ) is 95 
+There number of / is 40 
